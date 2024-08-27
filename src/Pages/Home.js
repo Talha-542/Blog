@@ -1,10 +1,9 @@
 import React from 'react'
-import './App.css';
 
-export default function App() {
+export default function Home() {
   return (
     <div>
-      hi
+      Home
     </div>
   )
 }

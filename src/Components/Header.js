@@ -1,10 +1,9 @@
 import React from 'react'
-import './App.css';
 
-export default function App() {
+export default function Header() {
   return (
     <div>
-      hi
+      Header
     </div>
   )
 }
